@@ -2,5 +2,5 @@
 layout:slide
 title: "Welcome to your second slide!"
 ---
-Your test
+Something really new and cool.
 Use the left arrow to go back!
